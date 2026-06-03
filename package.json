@@ -10,7 +10,7 @@
   "dependencies": {
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
-    "fumadocs-core": "^11.2.1",
+    "fumadocs-core": "^14.0.2",
     "fumadocs-mdx": "^8.2.23",
     "fumadocs-ui": "^11.2.1",
     "lucide-react": "^0.383.0",
